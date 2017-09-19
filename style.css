@@ -1,0 +1,23 @@
+.center {
+	text-align: center;
+	font-size: 150%;
+}
+
+p.thick {
+	font-weight: bold;
+	font-size: 80%
+}
+
+.header {
+	text-align: left;
+	font-size: 90%;
+	font-weight: bold;
+}
+
+.border {
+	border-bottom: solid black 1px;
+}
+
+p.small {
+	font-size: 70%;
+}
