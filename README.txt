@@ -9,3 +9,10 @@ Used 5 rules in style.css. All HTML and CSS files pass the official HTML5
 specifications. The file in my Tufts CS account redirects to my website on 
 github.
 
+CREDITS
+2. None, but maybe in future work
+
+TIME SPENT
+4-5 Hours
+
+
